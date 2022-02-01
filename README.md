@@ -1,1 +1,3 @@
-# kolawole_akins_a
+# Kolawole Akinsumbo
+
+I just designed this website for myself
